@@ -2,5 +2,24 @@ body{
     background-color:rgb(87, 87, 87);
 }
 .wrapper{
-    width: 800px;
+    /* width: 800px; */
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    /* text-align: center; */
+   
+}
+.bg-wrapper{
+  background-color: white;
+  width: 840px;
+  height: 300px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+   
 }
